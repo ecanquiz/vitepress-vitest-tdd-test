@@ -32,7 +32,8 @@ module.exports = {
         path: '/vtu/',
         collapsable: false,     
         children: [
-          { text: 'Vue Tests Utils', link: '/vtu/vtu' }
+          { text: '¿Qué es Vue Test Utils?', link: '/vtu/intro' },
+          { text: 'Un Curso Acelerado', link: '/vtu/un-curso-acelerado' }
         ]
       }
     ]
