@@ -33,7 +33,8 @@ module.exports = {
         collapsable: false,     
         children: [
           { text: '¿Qué es Vue Test Utils?', link: '/vtu/intro' },
-          { text: 'Un Curso Acelerado', link: '/vtu/un-curso-acelerado' }
+          { text: 'Un Curso Acelerado', link: '/vtu/un-curso-acelerado' },
+          { text: 'Renderizado Condicional', link: '/vtu/renderizado-condicional' }
         ]
       }
     ]
